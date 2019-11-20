@@ -1,0 +1,66 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\1c9c6d15-9939-45bf-8bb0-5a06f5030e32___476849083_10.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\1c9c6d15-9939-45bf-8bb0-5a06f5030e32___476849083_10.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4000</width>
+	<height>2667</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1970</xmin>
+		<xmax>2223</xmax>
+		<ymin>763</ymin>
+		<ymax>988</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_30_40</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1970</xmin>
+		<xmax>2223</xmax>
+		<ymin>763</ymin>
+		<ymax>988</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1970</xmin>
+		<xmax>2223</xmax>
+		<ymin>763</ymin>
+		<ymax>988</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1970</xmin>
+		<xmax>2223</xmax>
+		<ymin>763</ymin>
+		<ymax>988</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,79 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\10b01945-a777-4c20-932e-41f305141036___chanel.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\10b01945-a777-4c20-932e-41f305141036___chanel.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>624</width>
+	<height>310</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>137</xmin>
+		<xmax>158</xmax>
+		<ymin>111</ymin>
+		<ymax>137</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>439</xmin>
+		<xmax>457</xmax>
+		<ymin>116</ymin>
+		<ymax>138</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>476</xmin>
+		<xmax>499</xmax>
+		<ymin>111</ymin>
+		<ymax>139</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>293</xmin>
+		<xmax>314</xmax>
+		<ymin>134</ymin>
+		<ymax>161</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>253</xmin>
+		<xmax>272</xmax>
+		<ymin>130</ymin>
+		<ymax>148</ymax>
+	</bndbox>
+</object>
+</annotation>

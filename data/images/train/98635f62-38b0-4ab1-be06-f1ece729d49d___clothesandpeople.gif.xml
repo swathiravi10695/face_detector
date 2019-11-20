@@ -1,0 +1,92 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\98635f62-38b0-4ab1-be06-f1ece729d49d___clothesandpeople.gif</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\98635f62-38b0-4ab1-be06-f1ece729d49d___clothesandpeople.gif</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>293</width>
+	<height>195</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>134</xmin>
+		<xmax>153</xmax>
+		<ymin>28</ymin>
+		<ymax>46</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>134</xmin>
+		<xmax>153</xmax>
+		<ymin>28</ymin>
+		<ymax>46</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>134</xmin>
+		<xmax>153</xmax>
+		<ymin>28</ymin>
+		<ymax>46</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>134</xmin>
+		<xmax>153</xmax>
+		<ymin>28</ymin>
+		<ymax>46</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>185</xmin>
+		<xmax>199</xmax>
+		<ymin>26</ymin>
+		<ymax>46</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>160</xmin>
+		<xmax>172</xmax>
+		<ymin>35</ymin>
+		<ymax>48</ymax>
+	</bndbox>
+</object>
+</annotation>

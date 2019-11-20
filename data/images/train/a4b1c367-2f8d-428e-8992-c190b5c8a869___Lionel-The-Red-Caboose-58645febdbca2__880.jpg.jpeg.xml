@@ -1,0 +1,92 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\a4b1c367-2f8d-428e-8992-c190b5c8a869___Lionel-The-Red-Caboose-58645febdbca2__880.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\a4b1c367-2f8d-428e-8992-c190b5c8a869___Lionel-The-Red-Caboose-58645febdbca2__880.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>880</width>
+	<height>1178</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>513</xmin>
+		<xmax>555</xmax>
+		<ymin>493</ymin>
+		<ymax>536</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>389</xmin>
+		<xmax>449</xmax>
+		<ymin>479</ymin>
+		<ymax>564</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_above_50</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>389</xmin>
+		<xmax>449</xmax>
+		<ymin>479</ymin>
+		<ymax>564</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>389</xmin>
+		<xmax>449</xmax>
+		<ymin>479</ymin>
+		<ymax>564</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>389</xmin>
+		<xmax>449</xmax>
+		<ymin>479</ymin>
+		<ymax>564</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>232</xmin>
+		<xmax>321</xmax>
+		<ymin>443</ymin>
+		<ymax>513</ymax>
+	</bndbox>
+</object>
+</annotation>

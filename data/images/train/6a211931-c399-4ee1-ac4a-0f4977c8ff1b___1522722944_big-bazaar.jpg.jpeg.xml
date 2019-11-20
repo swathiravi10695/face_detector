@@ -1,0 +1,79 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\6a211931-c399-4ee1-ac4a-0f4977c8ff1b___1522722944_big-bazaar.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\6a211931-c399-4ee1-ac4a-0f4977c8ff1b___1522722944_big-bazaar.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>694</width>
+	<height>450</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Sad</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>601</xmin>
+		<xmax>650</xmax>
+		<ymin>48</ymin>
+		<ymax>83</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_above_50</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>601</xmin>
+		<xmax>650</xmax>
+		<ymin>48</ymin>
+		<ymax>83</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Indian</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>601</xmin>
+		<xmax>650</xmax>
+		<ymin>48</ymin>
+		<ymax>83</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>601</xmin>
+		<xmax>650</xmax>
+		<ymin>48</ymin>
+		<ymax>83</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>503</xmin>
+		<xmax>535</xmax>
+		<ymin>33</ymin>
+		<ymax>71</ymax>
+	</bndbox>
+</object>
+</annotation>

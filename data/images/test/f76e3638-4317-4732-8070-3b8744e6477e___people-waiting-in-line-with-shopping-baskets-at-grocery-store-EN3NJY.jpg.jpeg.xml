@@ -1,0 +1,274 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\f76e3638-4317-4732-8070-3b8744e6477e___people-waiting-in-line-with-shopping-baskets-at-grocery-store-EN3NJY.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\f76e3638-4317-4732-8070-3b8744e6477e___people-waiting-in-line-with-shopping-baskets-at-grocery-store-EN3NJY.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1300</width>
+	<height>956</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Sad</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>123</xmin>
+		<xmax>208</xmax>
+		<ymin>113</ymin>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>123</xmin>
+		<xmax>208</xmax>
+		<ymin>113</ymin>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>123</xmin>
+		<xmax>208</xmax>
+		<ymin>113</ymin>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>123</xmin>
+		<xmax>208</xmax>
+		<ymin>113</ymin>
+		<ymax>206</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>324</xmin>
+		<xmax>410</xmax>
+		<ymin>193</ymin>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>324</xmin>
+		<xmax>410</xmax>
+		<ymin>193</ymin>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>324</xmin>
+		<xmax>410</xmax>
+		<ymin>193</ymin>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>324</xmin>
+		<xmax>410</xmax>
+		<ymin>193</ymin>
+		<ymax>272</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Happy</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>629</xmin>
+		<xmax>716</xmax>
+		<ymin>182</ymin>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>629</xmin>
+		<xmax>716</xmax>
+		<ymin>182</ymin>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>629</xmin>
+		<xmax>716</xmax>
+		<ymin>182</ymin>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>629</xmin>
+		<xmax>716</xmax>
+		<ymin>182</ymin>
+		<ymax>267</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>836</xmin>
+		<xmax>931</xmax>
+		<ymin>168</ymin>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>836</xmin>
+		<xmax>931</xmax>
+		<ymin>168</ymin>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Asian</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>836</xmin>
+		<xmax>931</xmax>
+		<ymin>168</ymin>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>836</xmin>
+		<xmax>931</xmax>
+		<ymin>168</ymin>
+		<ymax>257</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Angry</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1026</xmin>
+		<xmax>1113</xmax>
+		<ymin>213</ymin>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_30_40</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1026</xmin>
+		<xmax>1113</xmax>
+		<ymin>213</ymin>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Hispanic</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1026</xmin>
+		<xmax>1113</xmax>
+		<ymin>213</ymin>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1026</xmin>
+		<xmax>1113</xmax>
+		<ymin>213</ymin>
+		<ymax>316</ymax>
+	</bndbox>
+</object>
+</annotation>

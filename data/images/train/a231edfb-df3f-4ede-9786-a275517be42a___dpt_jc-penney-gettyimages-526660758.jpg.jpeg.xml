@@ -1,0 +1,79 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\a231edfb-df3f-4ede-9786-a275517be42a___dpt_jc-penney-gettyimages-526660758.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\a231edfb-df3f-4ede-9786-a275517be42a___dpt_jc-penney-gettyimages-526660758.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>2880</width>
+	<height>1920</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Happy</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2282</xmin>
+		<xmax>2383</xmax>
+		<ymin>784</ymin>
+		<ymax>890</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_30_40</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2282</xmin>
+		<xmax>2383</xmax>
+		<ymin>784</ymin>
+		<ymax>890</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Black</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2282</xmin>
+		<xmax>2383</xmax>
+		<ymin>784</ymin>
+		<ymax>890</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2282</xmin>
+		<xmax>2383</xmax>
+		<ymin>784</ymin>
+		<ymax>890</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2050</xmin>
+		<xmax>2119</xmax>
+		<ymin>881</ymin>
+		<ymax>930</ymax>
+	</bndbox>
+</object>
+</annotation>

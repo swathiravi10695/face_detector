@@ -1,0 +1,118 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\b722a862-81dc-44c8-af2c-dee3f9bd493a___global-women-talking-supermarket-080517_tcm244-504622.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\b722a862-81dc-44c8-af2c-dee3f9bd493a___global-women-talking-supermarket-080517_tcm244-504622.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>990</width>
+	<height>557</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>166</xmin>
+		<xmax>290</xmax>
+		<ymin>22</ymin>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>166</xmin>
+		<xmax>290</xmax>
+		<ymin>22</ymin>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Asian</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>166</xmin>
+		<xmax>290</xmax>
+		<ymin>22</ymin>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>166</xmin>
+		<xmax>290</xmax>
+		<ymin>22</ymin>
+		<ymax>163</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>622</xmin>
+		<xmax>759</xmax>
+		<ymin>67</ymin>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_30_40</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>622</xmin>
+		<xmax>759</xmax>
+		<ymin>67</ymin>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Arab</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>622</xmin>
+		<xmax>759</xmax>
+		<ymin>67</ymin>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>622</xmin>
+		<xmax>759</xmax>
+		<ymin>67</ymin>
+		<ymax>184</ymax>
+	</bndbox>
+</object>
+</annotation>

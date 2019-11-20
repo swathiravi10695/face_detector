@@ -1,0 +1,27 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\434b43f7-b78e-4061-9be6-65bb007d5ab4____3ed23b8e-c099-11e7-9033-2159153d9ac6.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\434b43f7-b78e-4061-9be6-65bb007d5ab4____3ed23b8e-c099-11e7-9033-2159153d9ac6.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>960</width>
+	<height>540</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>522</xmin>
+		<xmax>536</xmax>
+		<ymin>144</ymin>
+		<ymax>166</ymax>
+	</bndbox>
+</object>
+</annotation>

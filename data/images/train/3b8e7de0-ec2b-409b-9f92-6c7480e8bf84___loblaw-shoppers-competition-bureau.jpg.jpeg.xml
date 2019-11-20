@@ -1,0 +1,40 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\3b8e7de0-ec2b-409b-9f92-6c7480e8bf84___loblaw-shoppers-competition-bureau.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\3b8e7de0-ec2b-409b-9f92-6c7480e8bf84___loblaw-shoppers-competition-bureau.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>620</width>
+	<height>465</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>330</xmin>
+		<xmax>356</xmax>
+		<ymin>234</ymin>
+		<ymax>255</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>377</xmin>
+		<xmax>399</xmax>
+		<ymin>231</ymin>
+		<ymax>249</ymax>
+	</bndbox>
+</object>
+</annotation>

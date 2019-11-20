@@ -1,0 +1,66 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\8f4ed14b-c60b-45f6-8fdd-73d0732deea7___toys-r-us-Issac-Larian_840x480.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\8f4ed14b-c60b-45f6-8fdd-73d0732deea7___toys-r-us-Issac-Larian_840x480.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>840</width>
+	<height>480</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Happy</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>139</xmin>
+		<xmax>392</xmax>
+		<ymin>0</ymin>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_above_50</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>139</xmin>
+		<xmax>392</xmax>
+		<ymin>0</ymin>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>139</xmin>
+		<xmax>392</xmax>
+		<ymin>0</ymin>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>139</xmin>
+		<xmax>392</xmax>
+		<ymin>0</ymin>
+		<ymax>368</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\f68927e1-4f66-4016-8719-fc8e7a25fbe8___MW-ED693_walmar_20160120201211_ZH.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\f68927e1-4f66-4016-8719-fc8e7a25fbe8___MW-ED693_walmar_20160120201211_ZH.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>880</width>
+	<height>495</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>534</xmin>
+		<xmax>580</xmax>
+		<ymin>171</ymin>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>141</xmin>
+		<xmax>171</xmax>
+		<ymin>284</ymin>
+		<ymax>315</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>215</xmin>
+		<xmax>241</xmax>
+		<ymin>279</ymin>
+		<ymax>299</ymax>
+	</bndbox>
+</object>
+</annotation>

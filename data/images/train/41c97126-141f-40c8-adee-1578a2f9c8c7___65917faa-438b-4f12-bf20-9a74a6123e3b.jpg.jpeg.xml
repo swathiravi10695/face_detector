@@ -1,0 +1,53 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\41c97126-141f-40c8-adee-1578a2f9c8c7___65917faa-438b-4f12-bf20-9a74a6123e3b.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\41c97126-141f-40c8-adee-1578a2f9c8c7___65917faa-438b-4f12-bf20-9a74a6123e3b.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>683</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Happy</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>198</xmin>
+		<xmax>259</xmax>
+		<ymin>119</ymin>
+		<ymax>182</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Sad</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>506</xmin>
+		<xmax>580</xmax>
+		<ymin>161</ymin>
+		<ymax>233</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Emotion_Angry</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>384</xmin>
+		<xmax>481</xmax>
+		<ymin>204</ymin>
+		<ymax>293</ymax>
+	</bndbox>
+</object>
+</annotation>

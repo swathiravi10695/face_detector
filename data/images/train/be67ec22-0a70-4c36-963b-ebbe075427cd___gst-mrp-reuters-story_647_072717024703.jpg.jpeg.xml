@@ -1,0 +1,79 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\be67ec22-0a70-4c36-963b-ebbe075427cd___gst-mrp-reuters-story_647_072717024703.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\be67ec22-0a70-4c36-963b-ebbe075427cd___gst-mrp-reuters-story_647_072717024703.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>647</width>
+	<height>404</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Angry</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>302</xmin>
+		<xmax>344</xmax>
+		<ymin>60</ymin>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_40_50</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>302</xmin>
+		<xmax>344</xmax>
+		<ymin>60</ymin>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_Indian</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>302</xmin>
+		<xmax>344</xmax>
+		<ymin>60</ymin>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_ Female</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>302</xmin>
+		<xmax>344</xmax>
+		<ymin>60</ymin>
+		<ymax>118</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>23</xmin>
+		<xmax>70</xmax>
+		<ymin>50</ymin>
+		<ymax>88</ymax>
+	</bndbox>
+</object>
+</annotation>

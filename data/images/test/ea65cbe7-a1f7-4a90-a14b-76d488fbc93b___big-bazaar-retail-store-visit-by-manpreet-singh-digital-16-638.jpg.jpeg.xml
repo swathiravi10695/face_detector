@@ -1,0 +1,66 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\ea65cbe7-a1f7-4a90-a14b-76d488fbc93b___big-bazaar-retail-store-visit-by-manpreet-singh-digital-16-638.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\ea65cbe7-a1f7-4a90-a14b-76d488fbc93b___big-bazaar-retail-store-visit-by-manpreet-singh-digital-16-638.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>638</width>
+	<height>826</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Emotion_Neutral</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>359</xmin>
+		<xmax>408</xmax>
+		<ymin>159</ymin>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Age_20_30</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>359</xmin>
+		<xmax>408</xmax>
+		<ymin>159</ymin>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>E_White</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>359</xmin>
+		<xmax>408</xmax>
+		<ymin>159</ymin>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>G_Male</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>359</xmin>
+		<xmax>408</xmax>
+		<ymin>159</ymin>
+		<ymax>218</ymax>
+	</bndbox>
+</object>
+</annotation>

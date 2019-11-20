@@ -1,0 +1,40 @@
+<annotation>
+<folder>images</folder>
+<filename>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\ec55f634-b2d2-4642-a112-f0ed764fd778___louisvuitton.jpg.jpeg</filename>
+<path>J:\Main Project\Datasets\face-dataset-with-age-emotion-ethnicity\images\ec55f634-b2d2-4642-a112-f0ed764fd778___louisvuitton.jpg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>350</width>
+	<height>250</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>287</xmin>
+		<xmax>313</xmax>
+		<ymin>47</ymin>
+		<ymax>80</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Not_Face</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>41</xmin>
+		<xmax>72</xmax>
+		<ymin>39</ymin>
+		<ymax>74</ymax>
+	</bndbox>
+</object>
+</annotation>
